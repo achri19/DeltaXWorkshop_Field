@@ -2,7 +2,7 @@ These are files related to the Delta-X Applicatons Workshop held in Baton Rouge,
 
 UPDATES Oct 2022:
 Please see the official ORNL page for updated workshop materials:
-[![Full Workshop Materials]](https://github.com/ornldaac/deltax_workshop_2022)
+[[Full Workshop Materials]](https://github.com/ornldaac/deltax_workshop_2022)
 
 # DeltaXWorkshop_Field
 Modules related to field data
