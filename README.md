@@ -27,3 +27,8 @@ Module 5: Water quality indicators
 
 Module 6: Sediment Grain Size
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achri19/DeltaXWorkshop_Field/blob/main/notebooks_V2/Module6_Grain_Size.ipynb)
+
+Affiliation: Jet Propulsion Laboratory, California Institute of Technology
+Acknowledgement: The research was carried out at the Jet Propulsion Laboratory, California Institute of Technology, under a contract with the National Aeronautics and Space Administration (80NM0018D0004)
+
+© 2022 California Institute of Technology. Government sponsorship acknowledged
